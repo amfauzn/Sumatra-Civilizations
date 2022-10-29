@@ -1,5 +1,6 @@
-# Borneo Civilization
+# Sumatra Civilization
 Add kingdoms and sultanate from Sumatra Island, Indonesia.
+![](/Sumatra%20Civilizations.png)
 
 # Civilization List
 - Aceh, led by Iskandar Muda
