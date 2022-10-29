@@ -1,0 +1,162 @@
+[
+	{
+		"name": "Aceh",						// 1496 - 1903
+		"leaderName": "Iskandar Muda",
+		"adjective": ["Acehnese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Islam",
+
+		//"startIntroPart1": "The blessings of heaven be upon you, beloved king Darius of Persia! You lead a strong and wise people. In the morning of the world, the great Persian leader Cyrus revolted against the mighty Median empire and by 550 BC, the Medes were no more. Through cunning diplomacy and military prowess, great Cyrus conquered wealthy Lydia and powerful Babylon, his son conquering proud Egypt some years later. Over time, Persian might expanded into far away Macedonia, at the very door of the upstart Greek city-states. Long would Persia prosper until the upstart villain Alexander of Macedon, destroyed the great empire in one shocking campaign.",
+		//"startIntroPart2": "Darius, your people look to you to once again bring back the days of power and glory for Persia! The empire of your ancestors must emerge again, to triumph over its foes and to bring peace and order to the world! O king, will you answer the call? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I have tried all other avenues, but yet you persist in this madness. I hope, for your sake, your end is swift.",
+		"attacked": "You can see how fruitless this will be for you, no?",
+		"defeated": "Has God withdrawn his favor from me, that Aceh Darussalam must fall? Oh, what a calamity!",
+		"introduction": "Salam. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
+		
+		"neutralHello": "Good day to you!",
+		"hateHello": "So?"
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+		
+		"outerColor": [203,  5,  3],
+		"innerColor": [244,232,154],
+		"uniqueName": "Aceh Lon Sayang",
+		"uniques": ["[+1 Science] from each Trade Route", "[+10]% [Science] <while the empire is happy>"],
+		"cities": ["Banda Aceh","Pidie","Sabang","Lhokseumawe","Nagan Raya","Gayo Leus","Langsa","Subulussalam","Daya","Pedir",
+			"Lamuri","Linge","Samudera Pasai","Binjai","Medan","Tanjung Balai","Sibolga","Nias","Padang Sidempuan","Pematang Siantar",
+			"Perak","Pahang","Johor","Temasek","Pariaman","Padang","Solok","Dumai","Batam","Tanjungpinang",
+			"Kedah","Patani","Jambi","Sungai Penuh","Bengkulu"],
+        "spyNames": ["Fansuri","Thani","Jauhar ul-Alam","Syamsul","Meutia","Bereueh","Dhien","Keumala","Qory","Ichsan"]
+    },
+	
+	/*{
+		"name": "Dharmasraya",
+		"leaderName": "Nebuchadnezzar II",
+		"adjective": ["Babylonian"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Islam",
+		"uniqueName": "Srivijayan Legacy",
+		"uniques": ["[+3 Faith] [in capital]", "Receive free [Great Prophet] when you discover [Mining]", 
+					"Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},*/
+	
+	{
+		"name": "Jambi",					// 1615–1904
+		"leaderName": "Kedah",
+		"adjective": ["Jambinese"],
+		"startBias": ["Grassland","Forest"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Islam",
+
+		//"startIntroPart1": "Hail mighty Bismarck, first chancellor of Germany and her empire! Germany is an upstart nation, fashioned from the ruins of the Holy Roman Empire and finally unified in 1871, a little more than a century ago. The German people have proven themselves to be creative, industrious and ferocious warriors. Despite enduring great catastrophes in the first half of the 20th century, Germany remains a worldwide economic, artistic and technological leader.",
+		//"startIntroPart2": "Great Prince Bismarck, the German people look up to you to lead them to greater days of glory. Their determination is strong, and now they turn to you, their beloved iron chancellor, to guide them once more. Will you rule and conquer through blood and iron, or foster the Germanic arts and industry? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "The world will be more beautiful without you. Prepare for war.",
+		"attacked": "Recourse to war is regrettable, but necessary, when dealing with vipers like you.",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "I, Kedah, welcome you to Jambi.",
+		
+		"neutralHello": "Greetings!",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		
+		"outerColor": [42,34,0],
+		"innerColor": [255,205,205],
+		"uniqueName": "Pusako Batuah",
+		"uniques": ["[+10]% [Culture] [in capital]", "[+1 Culture] from every [Plantation]"],
+		"cities": ["Tanah Pilih","Jambi","Sengeti","Tanjung Jabung","Batanghari","Tebo","Bungo","Merangin","Sungai Penuh","Kerinci",
+			"Taman Rajo","Kumpeh","Maro Sebo","Mestong","Sekernan","Bahar","Gelam","Musi Banyuasin","Musi Rawas","Bangko"],
+        //"spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+	
+	{
+		"name": "Siak",					// 1723 - 1945
+		"leaderName": "Sayyid Ali",
+		"adjective": ["Siak"],
+		"startBias": ["Coast","River"],
+		"preferredVictoryType":"Diplomatic",
+		"favoredReligion": "Islam",
+
+		//"startIntroPart1": "May the blessings of the gods be upon you, oh great King Alexander! You are the ruler of the mighty Greek nation. Your people lived for so many years in isolated city-states - legendary cities such as Athens, Sparta, Thebes - where they gave the world many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Western Civilization. Although few in number and often hostile to each other, in the 5th century BC they were able to defeat their much larger neighbor, Persia, on land and sea.",
+		//"startIntroPart2": "Alexander, your people stand ready to march to war, to spread the great Greek culture to millions and to bring you everlasting glory. Are you ready to accept your destiny, King Alexander? Will you lead your people to triumph and greatness? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Siak Sri Indrapura people does not fear you. When we defeat you, we will be stronger than ever.",
+		"attacked": "Your hubris will be your end. Come, then—choose the manner of your defeat.",
+		"defeated": "So be it. You are victorious. May your reign be more peaceful than mine ever was.",
+		"introduction": "Peace be on you! I am Sayyid Ali, sultan of Siak.",
+		
+		"neutralHello": "What now?",
+		"hateHello": "What?",
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+		
+		"outerColor": [ 4, 144, 95],
+		"innerColor": [253,245,155],
+		"uniqueName": "The Colony of 12",
+		"uniqueText": "+50% Production when constructing Lighthouse, Harbor, and Seaport\n+2 Gold from every Lighthouse, Harbor, and Seaport",
+		"uniques": ["[+50]% Production when constructing [Lighthouse] buildings [in all cities]", 
+					"[+50]% Production when constructing [Harbor] buildings [in all cities]", 
+					"[+50]% Production when constructing [Seaport] buildings [in all cities]", 
+					"[+2 Gold] from every [Lighthouse]", 
+					"[+2 Gold] from every [Harbor]", 
+					"[+2 Gold] from every [Seaport]"],
+		"cities": ["Buantan","Mempura","Pekanbaru","Bengkalis","Kampar","Dumai","Kubu","Bangko","Tanah Putih","Pelalawan",
+			"Meranti","Indragiri","Kota Pinang","Pagarawan","Batubara","Bedagai","Kualuh","Panai","Bilah","Asahan",
+			"Serdang","Langkat","Binjai","Temiang","Deli"],
+        //"spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander",]
+    },
+	
+	{
+		"name": "Srivijaya",				// 670–1025
+		"leaderName": "Balaputradewa",
+		"adjective": ["Srivijayan"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Buddhism",
+
+		//"startIntroPart1": "Greetings, noble Hiawatha, leader of the mighty Iroquois nations! Long have your people lived near the great and holy lake Ontario in the land that has come to be known as the New York state in North America. In the mists of antiquity, the five peoples of Seneca, Onondaga, Mohawks, Cayugas and Oneida united into one nation, the Haudenosaunee, the Iroquois. With no written language, the wise men of your nation created the great law of peace, the model for many constitutions including that of the United States. For many years, your people battled great enemies, such as the Huron, and the French and English invaders. Tough outnumbered and facing weapons far more advanced than the ones your warriors wielded, the Iroquois survived and prospered, until they were finally overwhelmed by the mighty armies of the new United States.",
+		//"startIntroPart2": "Oh noble Hiawatha, listen to the cries of your people! They call out to you to lead them in peace and war, to rebuild the great longhouse and unite the tribes once again. Will you accept this challenge, great leader? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your reign will be better under MY domain.",
+		"attacked": "You have asked for war and I will give it to you.",
+		"defeated": "One gains humility in defeat. I pray you are granted the most humility of all.",
+		"introduction": "You stand before Balaputradewa of Srivijaya, emperor of Malay kingdoms and protector of the realm. Do not be afraid… I am good to my friends.",
+		
+		"neutralHello": "Good day.",
+		"hateHello": "What do YOU want?!",
+		"tradeRequest": "Better hurry, this offer won't be valid for a long time.",
+		
+		"outerColor": [121,  0,  2],
+		"innerColor": [234,225,158],
+		"uniqueName": "Malay Trade Route",
+		"uniques": ["[+15]% Strength <for [Water] units> <when fighting in [Coast] tiles>", "[+1 Gold] from every [Coast]"],
+		"cities": ["Palembang","Prabumulih","Pagar Alam","Lubuklinggau","Bengkulu","Jambi","Bandar Lampung","Metro","Banten","Sunda Kelapa",
+			"Bogor","Depok","Bekasi","Sukabumi","Bandung","Cimahi","Tasikmalaya","Cirebon","Pekanbaru","Dumai",
+			"Siak","Tanjungpinang","Batam","Temasek","Johor","Perak","Pahang","Selangor","Terengganu","Kelantan",
+			"Kedah","Penang","Pattani","Ligor","Tegal","Pekalongan","Magelang","Semarang","Salatiga","Surakarta",
+			"Ta Khmau","Phnom Penh","Siem Reap","Klaten","Yogyakarta","Singkawang","Sarawak","Brunei"],
+        //"spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
+    }
+]
