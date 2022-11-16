@@ -1,6 +1,9 @@
 # Sumatra Civilization
 Add kingdoms and sultanate from Sumatra Island, Indonesia.
 ![](/Sumatra%20Civilizations.png)
+-
+v1.0 (30.10.2022)
+v1.1 (16.11.2022)
 
 # Civilization List
 - Aceh, led by Iskandar Muda
